@@ -69,3 +69,9 @@ To perform the aforementioned epoch skipping, additional logic will have to be i
 * Support for developing static images
 
 * Migrating to an object-oriented design
+
+***
+For issues, comments and suggestions:<br>
+* Email: mastersyadav@gmail.com
+* LinkedIn: https://www.linkedin.com/in/sidyadav7/
+* ResearchGate: https://www.researchgate.net/profile/Siddharth-Yadav-6
